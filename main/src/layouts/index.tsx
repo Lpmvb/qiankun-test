@@ -16,7 +16,6 @@ export default ({ children, ...props }) => {
         </ul>
       </aside>
       {children}
-      <div id="root-subapp-container"></div>
     </div>
   );
 };
