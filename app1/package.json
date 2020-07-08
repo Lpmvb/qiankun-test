@@ -1,5 +1,5 @@
 {
-  "name": "app",
+  "name": "app1",
   "private": true,
   "scripts": {
     "start": "umi dev",
